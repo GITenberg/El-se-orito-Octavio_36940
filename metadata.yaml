@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36940#El-se-orito-Octavio
 gutenberg_issued: '2011-08-01'
 gutenberg_type: Text
 identifiers:
